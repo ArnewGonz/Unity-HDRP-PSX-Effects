@@ -1,3 +1,3 @@
 # Unity HDRP PSX Effects
  
-<img src="Media/gif result.gif" width=100%>
+<img src="gif result.gif" width=100%>
