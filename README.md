@@ -4,5 +4,11 @@ This collection of effects include:
 - PRB shadergraph for Vertex snapping/Jittering.
 - Screen-space pixelation and color adjustment effect.
 - Screen-space dithering.
- 
+
+### Demo
+The project includes a Demo scene (HorrorDemo) to test the effects.
 <img src="Media/gif01.gif" width=75%>
+
+### Compatibility
+Unity 2022.3.7f1
+HDRP/Shadergraph (7.1.8)
