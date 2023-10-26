@@ -16,6 +16,7 @@ Unity 2022.3.7f1
 HDRP/Shadergraph (7.1.8)
 
 ### References
-Retro house pack: https://elegantcrow.itch.io/retro-house-pack
-European small family car (1960s and 1970s): https://ggbot.itch.io/psx-style-car
-Pine trees and rocks: https://nartier.itch.io/ps1-style-nature-assets
+- Retro house pack: https://elegantcrow.itch.io/retro-house-pack
+- European small family car (1960s and 1970s): https://ggbot.itch.io/psx-style-car
+- Pine trees and rocks: https://nartier.itch.io/ps1-style-nature-assets
+- Kodrin's URP-PSX, from which Dithering and Pixelation are mostly port to HDRP and a great source of information for the Jitter Shader: https://github.com/Kodrin/URP-PSX
