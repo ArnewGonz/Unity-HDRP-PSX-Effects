@@ -6,7 +6,7 @@ This collection of effects include:
 - Screen-space dithering.
 
 ### Demo
-The project includes a Demo scene (HorrorDemo) to test the effects.
+The project includes a Demo scene (Demo) to test the effects.
 <p align="center">
   <img src="Media/gif01.gif" width=75%>
 </p>
