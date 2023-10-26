@@ -21,5 +21,5 @@ HDRP/Shadergraph (7.1.8)
 - Pine trees and rocks: https://nartier.itch.io/ps1-style-nature-assets
 - Kodrin's URP-PSX, from which Dithering and Pixelation are mostly port to HDRP and a great source of information for the Jitter Shader: https://github.com/Kodrin/URP-PSX
 
-### Licence
+### License
 CC0! Feel free to use it in your projects, I'll be very happy if you show me your results! 
