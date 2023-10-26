@@ -7,7 +7,9 @@ This collection of effects include:
 
 ### Demo
 The project includes a Demo scene (HorrorDemo) to test the effects.
-<img src="Media/gif01.gif" width=75%>
+<p align="center">
+  <img src="Media/gif01.gif" width=75%>
+</p>
 
 ### Compatibility
 Unity 2022.3.7f1
