@@ -7,8 +7,25 @@ This collection of effects include:
 
 ### Demo
 The project includes a Demo scene (Demo) to test the effects.
+
 <p align="center">
   <img src="Media/gif01.gif" width=75%>
+</p>
+
+### Adding the Pixelation and Dithering effects
+To be able to use the Pixelation and Dithering effects in a Volume you must add them to the Custom Post-Process Order list:
+
+<p align="center">
+  <img src="Media/InjectionPoint.png" width=75%>
+</p>
+
+If you want to change the injection point, go the Pixelation.css and Dithering.css (change one or both, they are independent) and set **injectionPoint** to any other CustomPostProcessInjectionPoint option from the lists shown in the image. After this change, don't forget to change it at the Custom Post-Process Order list.
+
+### Building the project with the effects
+In order to build the project and see the effects, you must add the shaders to the **Always Included Shaders** list:
+
+<p align="center">
+  <img src="Media/AddToBuild.png" width=75%>
 </p>
 
 ### References
